@@ -6,6 +6,6 @@ function findMatching(array, name) {
   });
 }
 
-function fuzzyMatch(){
+function fuzzyMatch(array, name){
   
 }
