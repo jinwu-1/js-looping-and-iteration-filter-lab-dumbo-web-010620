@@ -1,7 +1,7 @@
 // Code your solution in this file
 
-function findingMatching(array, string) {
+function findingMatching(array, name) {
   return array.filter(function (driverName) {
-    return driverName.toLowerCase() === string.toLowerCase();
+    return driverName.toLowerCase() === name.toLowerCase();
   });
 }
