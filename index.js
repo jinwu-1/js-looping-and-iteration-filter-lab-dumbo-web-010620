@@ -13,6 +13,6 @@ function fuzzyMatch (array, partialName) {
   });
 }
 
-function matchName() {
+function matchName(array, name) {
   
 }
